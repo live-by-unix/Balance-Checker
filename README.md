@@ -44,6 +44,7 @@ Balance Checker is a static application and can be deployed to any static hostin
 - **Vercel**: Import from Git or deploy via CLI
 - **Cloudflare Pages**: Connect to Git or upload via direct upload
 - **Any web server**: Upload files to any web hosting service
+Or visit at website in website URL
 
 ## Data Storage
 
